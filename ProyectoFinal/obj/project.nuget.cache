@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbYisnLnKZ0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samor\\fsharp\\ProyectoFinal\\juego.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samor\\.nuget\\packages\\fsharp.core\\10.1.201\\fsharp.core.10.1.201.nupkg.sha512"
+  ],
+  "logs": []
+}

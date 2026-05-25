@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="clase_4_29">
+    <resource name="FSharpSignatureData.clase_4_29" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.clase_4_29" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.clase_4_29" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.clase_4_29" action="remove"></resource>
+    <resource name="FSharpOptimizationData.clase_4_29" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.clase_4_29" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.clase_4_29" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.clase_4_29" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.clase_4_29" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.clase_4_29" action="remove"></resource>
+  </assembly>
+</linker>

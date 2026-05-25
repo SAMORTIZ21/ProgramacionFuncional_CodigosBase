@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrUU97Ef+tQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samor\\fsharp\\is105_26_2_3-main\\clase_4_29\\clase_4_29.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samor\\.nuget\\packages\\fsharp.core\\10.1.201\\fsharp.core.10.1.201.nupkg.sha512"
+  ],
+  "logs": []
+}

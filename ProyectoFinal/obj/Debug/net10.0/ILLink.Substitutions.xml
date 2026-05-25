@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="juego">
+    <resource name="FSharpSignatureData.juego" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.juego" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.juego" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.juego" action="remove"></resource>
+    <resource name="FSharpOptimizationData.juego" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.juego" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.juego" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.juego" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.juego" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.juego" action="remove"></resource>
+  </assembly>
+</linker>
