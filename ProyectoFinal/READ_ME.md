@@ -8,4 +8,5 @@ Aplicamos lo siguiente:
 4. Y se utiliza declaracion de variables Constantes al inicio del codigo con el fin de facilitar su edicion de funcionamiento.
 
 IMPORTANTE:
-Recordar que estos codigos son codigos de prueba, buscar tener una forma mayormente organizada 
+Recordar que estos codigos son codigos de prueba, buscar tener una forma mayormente organizada es FUNDAMENTAL si se quiere utilizar este codigo pra programas más complejos. De aqui se puede aprender y reciclar funciones
+genericas para la construccion de proyectos y demas. Pero con el debido cuidado y adaptacion al codigo edito.
